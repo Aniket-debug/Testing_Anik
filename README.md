@@ -5,4 +5,4 @@ Testing Purpose to understand GIt :)
 it will help in writting md files
 
 # Git commands developer should know
-1. Git clone :- git clone <https://name-of-the-repository-link>
+1. Git clone :- git clone  https://name-of-the-repository-link
