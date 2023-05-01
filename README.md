@@ -5,10 +5,10 @@ Testing Purpose to understand GIt :)
 it will help in writting md files
 
 # Git commands developer should know
-```git
+  ```git
   1. Git clone :- git clone <https://name-of-the-repository-link>
   ```
-```git
+  ```git
   2. Git branch :- git branch <branch-name>
   ```
   ```git
