@@ -32,7 +32,7 @@ it will help in writting md files
   ```git
   9. Git merge :- git merge <branch-name>
   ```
-## Contributors
+# contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -40,6 +40,6 @@ it will help in writting md files
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-[![All Contributors](https://img.shields.io/github/all-contributors/grraghav120/Testing_Anik?color=ee8449&style=flat-square)](#contributors)
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+[![All Contributors](https://img.shields.io/github/all-contributors/grraghav120/Testing_Anik?color=ee8449&style=flat-square)](#contributors)
