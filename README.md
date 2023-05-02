@@ -32,3 +32,4 @@ it will help in writting md files
   ```git
   9. Git merge :- git merge <branch-name>
   ```
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
