@@ -32,7 +32,7 @@ it will help in writting md files
   ```git
   9. Git merge :- git merge <branch-name>
   ```
-# contributors
+## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
